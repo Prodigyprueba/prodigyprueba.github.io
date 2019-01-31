@@ -554,25 +554,6 @@ h6,
 #features1-3 .mbr-cards-col:nth-child(even) .card-subtitle {
   font-size: 17px;
 }
-#pricing-table1-l .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-l .mbr-section__container .mbr-section-subtitle {
-  color: #ffffff;
-}
-#pricing-table1-l .mbr-plan-price-desc {
-  color: #ffffff;
-  font-size: 30px;
-}
-#pricing-table1-l .mbr-plan-price-desc B {
-  font-size: 36px;
-}
-#pricing-table1-l .mbr-price-figure B {
-  font-size: 72px;
-}
-#pricing-table1-l .mbr-plan-title {
-  font-size: 19px;
-}
 #pricing-table2-m .mbr-plan-header,
 #pricing-table2-m .mbr-plan-body {
   background-color: #f4f4f4;
