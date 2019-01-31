@@ -1,0 +1,1142 @@
+{
+  "settings": {
+    "name": "Prodigy tres",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#ed470b",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#ed470b",
+        "#282828"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.8",
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "snow": "",
+    "uniqCompNum": 23,
+    "versionPublish": "4.9.1",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prodigy-logog-1-337x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-i"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/cartel-4-2000x3911.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Disfruta la libertad de compartir <br>sin límites con quienes quieres...",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Con tu nuevo operador móvil disfruta de las mejores tarifas y siente la libertad de hablar y navegar &nbsp;sin preocuparte por tu saldo.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conoce quiénes somos</a> ",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shutterstock-257069272-2000x1097.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Configura tu tarifa prepago a tu medida&nbsp;",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Recarga online y en nuestros puntos de venta todos tus bonos y tarifas prepago<br>para poder hablar &nbsp;y navegar fácilmente. Tus recargas las puedes realizar<br> cuando y donde quieras.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga tu Prodigy</a> ",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shutterstock-195313151-2000x1335.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<div>La telefonía en tus manos como \n</div><div>nunca la habías vivido</div><div>\n</div>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Elije uno de nuestros 4 bonos: Bronce, Plata, Oro o Platino <br>y disfruta el que mejor se adapte a tus necesidades.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conoce nuestros bonos</a> ",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shutterstock-15776011-2000x1333.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Excediendo los límites <br>en telefonía móvil!",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Queremos que te sientas cerca de tu familia y amigos (los de aqui, y los de allá). \n<br>Con nuestros bonos  podrás llamar a teléfonos fijos y móviles de España y de otros países!&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga tu Prodigy</a> ",
+                "overlayOpacity": "0.2"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-0",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "18px",
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#ed470b",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "sale",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html#header3-9",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "cart-add",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "viber",
+              "family": "socicon",
+              "active": true,
+              "link": "index.html#header3-a",
+              "size": "41",
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#ed470b",
+              "border-color": "#ed470b"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "title1": "<a href=\"index.html#header3-9\" class=\"text-black\">Bonos</a>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Recargas",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<a href=\"index.html#header3-a\" class=\"text-black\">Tarifas</a>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Activa tu SIM",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Portabilidad",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-2"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ed470b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "NO,<br>NO SOMOS OTRA EMPRESA<br> \"MÁS\" DE TELEFONÍA",
+          "text": "Somos profesionales con una larga trayectoria en el sector de las telecomunicaciones. <br>Pensamos en ti y por eso queremos darte felicidad, a través de nuestros servicios de voz y datos, sencillos, <br>al mejor precio y sin compromiso de permanencia.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-6"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ed470b",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "SABEMOS QUE <br>LA DIFERENCIA ENTRE LO<br> NORMAL Y EXTRAORDINARIO<br>ES ESE PEQUEÑO EXTRA",
+          "text": "Queremos darte más risas, más diversión, más amor, más experiencias,<br>recuerdos inolvidables que no se acaben, por eso te ofrecemos datos y llamadas a tu medida<br>con bonos y tecnología 4G para poder hablar y navegar fácilmente.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-285968883-2000x1429.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "DISFRUTA <br>LA LIBERTAD DE<br>COMPARTIR SÍN LÍMITES<br>CON QUIENES QUIERES, DESDE CUALQUIER <br>LUGAR DEL MUNDO",
+          "text": "Queremos que te sientas cerca de tu familia y amigos (los de aqui, y los de allá). <br>Con nuestros bonos &nbsp;podrás llamar a teléfonos<br>fijos y móviles de España y de otros países!. Tenemos 4 bonos &nbsp;para que&nbsp;<br>elijas el que mejor se adapta a ti.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ed470b"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Bonos <br>nacional e internacional",
+          "meta": "Recarga online y en nuestros puntos de venta todos tus bonos y tarifas prepago con bonos predefinidos para poder hablar y navegar fácilmente. Las recargas Prodigy se pueden realizar cuando y donde quieras.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-209522878-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-406602010-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-562748479-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-701408431-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "5€",
+          "subtitle1": "PLAN BRONCE",
+          "caption1": "100 minutos nacionales e internacionales<br><br>1 GB<br><br>+ 1 GB Internacional<br><br>4g<br><br>",
+          "title2": "10€",
+          "subtitle2": "PLAN PLATA",
+          "caption2": "400 minutos nacionales e internacionales\n<br>\n<br>&nbsp;3 GB\n<br>\n<br>+ 1 GB Internacional\n<br>\n<br>4g&nbsp;<br><br>",
+          "title3": "15€",
+          "subtitle3": "PLAN ORO",
+          "caption3": "700 minutos nacionales e internacionales\n<br>\n<br>6 GB\n<br>\n<br>+ 1 GB Internacional\n<br>\n<br>4g&nbsp;<br><br>",
+          "title4": "20€",
+          "subtitle4": "PLAN PLATINO",
+          "caption4": "1500 minutos nacionales e internacionales\n<br>\n<br>12 GB\n<br>\n<br>+ 1 GB Internacional\n<br>\n<br>4g&nbsp;<br><br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-3",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "48px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "48px",
+              "color": "#ed470b"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "17px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".mbr-plan-price-desc B": {
+              "font-size": "36px"
+            },
+            ".mbr-price-figure B": {
+              "font-size": "72px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-674063851-2000x1335.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f97352",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Bono nacional",
+          "subtitle": "Disfruta de llamadas nacionales ILIMITADAS a cualquier operador móvil",
+          "title1": "PLATINO NACIONAL",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "€",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "<b>20</b>",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/mensual.",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "description1": "<b>20 GB</b>",
+          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Llamadas nacionales ilimitadas</li><li class=\"list-group-item\">Cualquier operador móvil</li><li class=\"list-group-item\">Cobertura 4G</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-l"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-price-desc": {
+              "font-size": "36px",
+              "color": "#ed470b"
+            },
+            "UL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-plan-title": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-674063851-2000x1335.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f97352",
+            "overlayOpacity": "0.4"
+          },
+          "description1": "<b>20 GB</b>",
+          "description2": "More details",
+          "description3": "More details",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "title": "Bono nacional",
+          "subtitle": "Disfruta de llamadas nacionales ILIMITADAS a cualquier operador móvil",
+          "title1": "PLATINO NACIONAL",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "€",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "<b>20</b>",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/mensual.",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Llamadas nacionales ilimitadas</li><li class=\"list-group-item\">Cualquier operador móvil</li><li class=\"list-group-item\">Cobertura 4G</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ed470b"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": "Tarifas",
+          "meta": "<br>Conoce nuestras tarifas Prepago para que elijas el plan que mejor se adapte a tus necesidades.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#features4-b\" data-toolbar=\"-mbrBtnMove\">NACIONALES</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">INTERNACIONALES</a> ",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-c",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#ed470b",
+              "border-color": "#ed470b"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px"
+            },
+            "P": {
+              "font-size": "19px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#ed470b",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "viber",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "34",
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "39",
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "39",
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "mail",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "30",
+              "color": "#ffffff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "help",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "30",
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "30",
+              "color": "#ffffff"
+            }
+          },
+          "title1": "España fijos",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<br>0.012€/min",
+          "title2": "Móviles Nacionales (Prodigy)",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<br>0.182€/min",
+          "title3": "Móviles \n<div>Nacionales\n</div><div>(otros móviles)</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "0.199€/min",
+          "title4": "Mensajes Nacionales\n<div>(Prodigy)</div>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "0.133€/SMS",
+          "title5": "Mensajes Nacionales\n<div>(Prodigy)</div><div><br></div>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "0.199€/SMS",
+          "title6": "Datos móviles",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "<br>0.169€/MB",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-529084387-2000x1335.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Contáctanos",
+          "subtitle": "¡Escríbenos, te contestaremos en breve!&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "dianis_ma89@hotmail.com",
+            "alerts": {
+              "success": "Gracias, pronto nos pondremos en contacto!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Número móvil"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-f",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ed470b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prodigy-blanco-2-2-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br>Calle Infanta de las Mercedes, 111<br>Madrid, España&nbsp;",
+          "text2": "<strong>Contacto</strong><br>\nEmail: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br><br>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-g",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
