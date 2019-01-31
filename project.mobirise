@@ -467,7 +467,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-285968883-2000x1429.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-1192766155-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -477,7 +477,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
           "title": "DISFRUTA <br>LA LIBERTAD DE<br>COMPARTIR SÍN LÍMITES<br>CON QUIENES QUIERES, DESDE CUALQUIER <br>LUGAR DEL MUNDO",
           "text": "Queremos que te sientas cerca de tu familia y amigos (los de aqui, y los de allá). <br>Con nuestros bonos &nbsp;podrás llamar a teléfonos<br>fijos y móviles de España y de otros países!. Tenemos 4 bonos &nbsp;para que&nbsp;<br>elijas el que mejor se adapta a ti.",
