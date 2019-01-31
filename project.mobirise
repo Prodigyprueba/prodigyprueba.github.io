@@ -154,7 +154,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/cartel-4-2000x3911.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -211,6 +211,21 @@
                 "text": "Queremos que te sientas cerca de tu familia y amigos (los de aqui, y los de allá). \n<br>Con nuestros bonos  podrás llamar a teléfonos fijos y móviles de España y de otros países!&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga tu Prodigy</a> ",
                 "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide-bonos-3-mesa-de-trabajo-1-1920x1080.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Bonos nacional e internacional<br>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Llévate gratis 1GB con cualquiera de nuestros bonos!<br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Escoge tu bono</a> ",
+                "overlayOpacity": "0"
               }
             ]
           },
@@ -223,7 +238,9 @@
           "_styles": {
             "H2": {
               "text-align": "left",
-              "font-size": "36px"
+              "font-size": "36px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "P": {
               "text-align": "left",
