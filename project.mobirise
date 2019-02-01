@@ -982,7 +982,7 @@
           "subtitle": "¡Escríbenos, te contestaremos en breve!&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "form": {
-            "action": "dianis_ma89@hotmail.com",
+            "action": "info@prodigymobile.es",
             "alerts": {
               "success": "Gracias, pronto nos pondremos en contacto!"
             },
@@ -1018,7 +1018,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#ed470b"
+              "color": "#000000"
             },
             "SMALL": {
               "color": "#282828"
