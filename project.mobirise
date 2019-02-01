@@ -773,99 +773,6 @@
         },
         {
           "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-plan-price-desc": {
-              "color": "#ffffff",
-              "font-size": "30px"
-            },
-            ".mbr-plan-price-desc B": {
-              "font-size": "36px"
-            },
-            ".mbr-price-figure B": {
-              "font-size": "72px"
-            },
-            ".mbr-plan-title": {
-              "font-size": "19px"
-            },
-            "UL": {
-              "color": "#000000",
-              "font-size": "15px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "secondType": "hidden",
-            "thirdType": "hidden",
-            "fourthType": "hidden",
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "showButtons": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web-2-mesa-de-trabajo-1-2000x2627.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#303030",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f97352",
-            "overlayOpacity": "0.4"
-          },
-          "title": "Bono nacional",
-          "subtitle": "Disfruta de llamadas nacionales ILIMITADAS a cualquier operador móvil",
-          "title1": "PLATINO NACIONAL",
-          "title2": "BUSINESS",
-          "title3": "PREMIUM",
-          "title4": "ULTIMATE",
-          "subtitle1": "",
-          "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
-          "label1": "HOT!",
-          "label2": "HOT!",
-          "label3": "HOT!",
-          "label4": "HOT!",
-          "currency1": "€",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "<b>20</b>",
-          "price2": "0",
-          "price3": "0",
-          "price4": "0",
-          "period1": "/mensual.",
-          "period2": "/mo.",
-          "period3": "/mo.",
-          "period4": "/mo.",
-          "description1": "<b>20 GB</b>",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Llamadas nacionales ilimitadas</li><li class=\"list-group-item\">Cualquier operador móvil</li><li class=\"list-group-item\">Cobertura 4G</li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-n"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
@@ -1062,10 +969,10 @@
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-529084387-2000x1335.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#222",
@@ -1111,10 +1018,10 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ed470b"
             },
             "SMALL": {
-              "color": "#ffffff"
+              "color": "#282828"
             }
           }
         },
