@@ -711,7 +711,7 @@
             "secondType": "hidden",
             "thirdType": "hidden",
             "fourthType": "hidden",
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "1",
             "showButtons": true,
             "bgImageRadio": true,
