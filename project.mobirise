@@ -194,7 +194,7 @@
                 "title": "Bonos nacional e internacional<br>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Llévate gratis 1GB con cualquiera de nuestros bonos!<br><br><br><br><br><br>",
+                "text": "Llévate gratis 1GB con cualquiera de nuestros bonos!<br><br><br><br><br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header3-9\" data-toolbar=\"-mbrBtnMove\">Escoge tu bono</a> ",
                 "overlayOpacity": "0"
               },
