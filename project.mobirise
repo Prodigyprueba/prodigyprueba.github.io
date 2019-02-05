@@ -1009,8 +1009,8 @@
             }
           },
           "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br><br>Calle Infanta de las Mercedes, 111<br>Madrid, España&nbsp;",
-          "text2": "<strong>Contact</strong><br>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
-          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Aviso legal</b></span></font><br><br><a href=\"page2.html#header1-w\" class=\"text-warning\">Click aqui</a> para conocer nuestros términos y condiciones.<br><br>",
+          "text2": "<strong>Contacto</strong><br>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
+          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Aviso legal</b></span></font><br><a href=\"page2.html#header1-w\" class=\"text-warning\"><br></a><a href=\"page2.html#header1-w\" class=\"text-warning\">Click aqui</a> para conocer nuestros términos y condiciones.<br><br>",
           "_tags": [
             "Tema"
           ],
@@ -1304,7 +1304,12 @@
             "Tema"
           ],
           "_name": "header1",
-          "_anchor": "header1-w"
+          "_anchor": "header1-w",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_params": {
@@ -1459,6 +1464,9 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "16px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           }
         },
@@ -1647,8 +1655,8 @@
             }
           },
           "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br><br>Calle Infanta de las Mercedes, 111<br>Madrid, España&nbsp;",
-          "text2": "<strong>Contact</strong><br>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
-          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Aviso legal</b></span></font><br><br><a href=\"page2.html#header1-w\" class=\"text-warning\">Click aqui</a> para conocer nuestros términos y condiciones.<br><br>",
+          "text2": "<strong>Contacto</strong><br>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
+          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Aviso legal</b></span></font><br><a href=\"page2.html#header1-w\" class=\"text-warning\"><br></a><a href=\"page2.html#header1-w\" class=\"text-warning\">Click aqui</a> para conocer nuestros términos y condiciones.<br><br>",
           "_tags": [
             "Tema"
           ],

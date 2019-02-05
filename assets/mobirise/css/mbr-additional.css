@@ -747,6 +747,9 @@ h6,
   font-family: 'Lato', sans-serif;
   font-size: 13px;
 }
+#header1-w .mbr-section-title {
+  font-size: 60px;
+}
 #content6-x P {
   font-size: 12px;
   font-family: 'Lora', serif;
@@ -819,6 +822,9 @@ h6,
 }
 #header1-1a .mbr-section-lead {
   font-size: 16px;
+}
+#header1-1a .mbr-section-title {
+  font-size: 60px;
 }
 #contacts1-18 STRONG {
   color: #000000;
