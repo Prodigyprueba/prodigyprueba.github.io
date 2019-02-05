@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Prodigy tres",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1307,7 +1307,7 @@
           "_anchor": "header1-w",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "48px"
             }
           }
         },
@@ -1466,7 +1466,7 @@
               "font-size": "16px"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "48px"
             }
           }
         },
