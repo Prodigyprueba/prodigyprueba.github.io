@@ -186,7 +186,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-bonos-3-mesa-de-trabajo-1-1920x1080.png",
                 "active": true,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
