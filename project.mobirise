@@ -700,7 +700,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web-bono-nacional-1-mesa-de-trabajo-1-copia-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/web-bono-nacional-5-mesa-de-trabajo-1-copia-2000x1125.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -719,7 +719,12 @@
             "Tema"
           ],
           "_name": "header1",
-          "_anchor": "header1-1c"
+          "_anchor": "header1-1c",
+          "_styles": {
+            ".btn": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_styles": {
