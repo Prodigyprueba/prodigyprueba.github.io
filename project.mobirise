@@ -36,7 +36,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "snow": "",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png"
   },
@@ -66,7 +66,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header1-1a\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1044,7 +1044,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header1-1a\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1195,7 +1195,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header1-1a\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1346,7 +1346,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#header1-1a\">AYUDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1431,7 +1431,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-220615997-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -1439,28 +1439,33 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
-          "title": "FAQ",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "title": "¿CÓMO PODEMOS AYUDARTE?",
+          "text": "Consulta nuestra sección de Preguntas Frecuentes y encuentra la respuesta a tu pregunta.&nbsp;<br>Si no encuentras la respuesta que buscas puedes contactar con nosotros a través&nbsp;<br>del formulario de contacto. ¡Resuelve tus dudas con el equipo de Prodigy!&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#slider-0\" data-toolbar=\"-mbrBtnMove\">Regresar</a> ",
           "_tags": [
             "Tema"
           ],
           "_name": "header1",
-          "_anchor": "header1-1a"
+          "_anchor": "header1-1a",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "51",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -1478,7 +1483,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-762793465-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1493,8 +1501,8 @@
             }
           },
           "title": "PREPAGO",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "<b>¿Cómo recargo mi línea?</b>\n<br>Si eres cliente de prepago, siempre que quieras podrás hacer una recarga cuyo importe se sumará al saldo existente. Puedes recargar sin ningún coste adicional:\n<br>\n<br>- Desde nuestra web. La forma más rápida y sencilla. Recarga ahora.\n<br>- App Prodigy\n<br>- Locutorios.\n<br>- Supermercados\n<br>- Tarjetas de recarga (puedes comprarlas en locutorios)<br><br><b>¿Cómo puedo consultar mi saldo?\n</b><br><b>Desde el móvil:</b>\n<br>Puedes consular tu saldo enviando un mensaje al<b> 1001</b>, recibirás un SMS con tu saldo. Puedes consultar tu saldo cuantas veces quieras de forma gratuita.\n<br><br><b>2222:</b> Buzón de voz\n<br>\n<br><b>Desde  la web:</b>\n<br>En nuestra página web puedes recargar, activar servicios, consultar saldo, comprobar historial de recargas.\n<br>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Tema"
           ],
@@ -1505,10 +1513,10 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
@@ -1527,7 +1535,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-403782565-1400x935.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1541,14 +1552,66 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "TARJETA SIM",
+          "text": "<b>¿La tarjeta SIM sirve para cualquier móvil?\n<br></b><br>Sí. Nuestra tarjeta SIM es compatible con cualquier terminal, tienen 3 tamaños: estándar, nano, y micro. Una vez que recibas la tarjeta selecciona la adecuada para tu terminal..<br><br><b>¿Cómo puedo activar la tarjeta SIM?\n</b><br>1.\tActiva tu tarjeta SIM en un punto de venta autorizado.\n<br>2.\tColoca tu tarjeta SIM en un teléfono libre.\n<br>3.\tYa puedes empezar a usar tu Prodigy.\n<br>4.\tRecuerda que los números PIN y PUK se encuentran en el reverso de la tarjeta plástica de tu SIM, consérvalos en un sitio seguro.\n<br><br>Si has solicitado una portabilidad, se activará una vez se realice el cambio de compañía. Te enviaremos un SMS para informarte de cuando se hará efectiva la portabilidad.&nbsp;<br><br><b>¿Qué ocurre si pierdo o rompo la tarjeta?\n</b><br>Si tu tarjeta SIM se ha deteriorado o la has perdido, debes acudir a un centro autorizado para el reemplazo de la misma. &nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Tema"
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-1b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-563225920-1400x915.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTERNET",
+          "text": "<b>¿Cómo configurar mi móvil para navegar por Internet?\n</b><br>Al insertar la tarjeta SIM en tu terminal tendrás internet de forma automática. Si no se configura automáticamente puedes configurarla de forma manual con las siguientes APN:<br><br><b>¿A qué velocidad navegaré?</b>\n<br>Nuestra red es velocidad 4G. Para navegar a dicha velocidad necesitas un móvil compatible con 4G y tener cobertura red 4G.\n<br>&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1d"
         },
         {
           "_params": {
