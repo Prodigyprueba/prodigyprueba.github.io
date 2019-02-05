@@ -429,7 +429,7 @@
             "overlayOpacity": 0.5
           },
           "title": "NO,<br>NO SOMOS OTRA EMPRESA<br> \"MÁS\" DE TELEFONÍA",
-          "text": "Somos profesionales con una larga trayectoria en el sector de las telecomunicaciones. <br>Pensamos en ti y por eso queremos darte felicidad, a través de nuestros servicios de voz y datos, sencillos, <br>al mejor precio y sin compromiso de permanencia.<br><br>",
+          "text": "Somos profesionales con una larga trayectoria en el sector de las telecomunicaciones. <br>Pensamos en ti y por eso queremos acercarte a los tuyos, a través de nuestros servicios de voz y datos, sencillos, <br>al mejor precio y sin compromiso de permanencia.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
           "_tags": [
             "Tema"
@@ -469,7 +469,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SABEMOS QUE <br>LA DIFERENCIA ENTRE LO<br> NORMAL Y EXTRAORDINARIO<br>ES ESE PEQUEÑO EXTRA",
-          "text": "Queremos darte más risas, más diversión, más amor, más experiencias,<br>recuerdos inolvidables que no se acaben, por eso te ofrecemos datos y llamadas a tu medida<br>con bonos y tecnología 4G para poder hablar y navegar fácilmente.",
+          "text": "Queremos darte más risas, más diversión, más amor, más experiencias y<br>recuerdos inolvidables que no se acaben; &nbsp;por eso te ofrecemos datos y llamadas a tu medida<br>con bonos y tecnología 4G para que puedas hablar y navegar fácilmente.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Tema"
@@ -530,7 +530,7 @@
             "bgColor": "#fff"
           },
           "title": "Bonos <br>nacional e internacional",
-          "meta": "Recarga online y en nuestros puntos de venta todos tus bonos y tarifas prepago con bonos predefinidos para poder hablar y navegar fácilmente. Las recargas Prodigy se pueden realizar cuando y donde quieras.",
+          "meta": "Recarga online y en nuestros puntos de venta todos tus bonos y tarifas prepago &nbsp;para poder hablar y navegar fácilmente. Las recargas Prodigy se pueden realizar cuando y donde quieras.",
           "_tags": [
             "Tema"
           ],
@@ -1003,9 +1003,9 @@
               "size": 0
             }
           },
-          "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br>Calle Infanta de las Mercedes, 111<br>Madrid, España&nbsp;",
-          "text2": "<strong>Contacto</strong><br><strong><br></strong><strong><br></strong>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
-          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page2.html#ext_menu-v\">Aviso legal</a></b></span></font><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br><br>",
+          "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br><br>Calle Infanta de las Mercedes, 111<br>Madrid, España&nbsp;",
+          "text2": "<strong>Contact</strong><br>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
+          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Aviso legal</b></span></font><br><br><a href=\"page2.html#header1-w\" class=\"text-warning\">Click aqui</a> para conocer nuestros términos y condiciones.<br><br>",
           "_tags": [
             "Tema"
           ],
@@ -1641,9 +1641,9 @@
               "size": 0
             }
           },
-          "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br>Calle Infanta de las Mercedes, 111<br>Madrid, España&nbsp;",
-          "text2": "<strong>Contacto</strong><br><strong><br></strong><strong><br></strong>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
-          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page2.html#ext_menu-v\">Aviso legal</a></b></span></font><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br><br>",
+          "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br><br>Calle Infanta de las Mercedes, 111<br>Madrid, España&nbsp;",
+          "text2": "<strong>Contact</strong><br>Email: info@prodigymobile.es<br>Número: +1 (0) 000 0000 001<br>",
+          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Aviso legal</b></span></font><br><br><a href=\"page2.html#header1-w\" class=\"text-warning\">Click aqui</a> para conocer nuestros términos y condiciones.<br><br>",
           "_tags": [
             "Tema"
           ],
