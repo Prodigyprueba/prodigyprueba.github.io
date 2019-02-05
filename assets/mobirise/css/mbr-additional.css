@@ -555,38 +555,12 @@ h6,
 #features1-3 .mbr-cards-col:nth-child(even) .card-subtitle {
   font-size: 17px;
 }
-#pricing-table1-o .mbr-section__container .mbr-section-title {
-  color: #ffffff;
-  font-size: 48px;
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
 }
-#pricing-table1-o .mbr-section__container .mbr-section-subtitle {
-  color: #ffffff;
-}
-#pricing-table1-o .mbr-plan-price-desc {
-  color: #ffffff;
-  font-size: 30px;
-}
-#pricing-table1-o .mbr-plan-price-desc B {
-  font-size: 36px;
-  color: #ffffff;
-}
-#pricing-table1-o .mbr-price-figure B {
-  font-size: 72px;
-  color: #ffffff;
-}
-#pricing-table1-o .mbr-plan-title {
-  font-size: 20px;
-  color: #ffffff;
-}
-#pricing-table1-o UL {
-  color: #ffffff;
-  font-size: 19px;
-}
-#pricing-table1-o .mbr-price-term {
-  color: #ffffff;
-}
-#pricing-table1-o .mbr-price-value {
-  color: #ffffff;
+#header3-14 .mbr-section-title {
+  color: #ed470b;
 }
 #header3-a .mbr-section-title,
 #header3-a .mbr-section-subtitle {
@@ -627,6 +601,9 @@ h6,
   color: #282828;
 }
 #contacts1-g STRONG {
+  color: #000000;
+}
+#contacts1-g SPAN {
   color: #000000;
 }
 
