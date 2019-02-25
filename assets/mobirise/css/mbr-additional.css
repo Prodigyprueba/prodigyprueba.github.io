@@ -562,7 +562,7 @@ h6,
   text-align: center;
 }
 #msg-box1-1n SPAN {
-  color: #ffffff;
+  color: #000000;
   font-size: 17px;
 }
 #header3-14 .mbr-section-title,
@@ -571,6 +571,9 @@ h6,
 }
 #header3-14 .mbr-section-title {
   color: #ed470b;
+}
+#header3-14 .mbr-section-subtitle {
+  color: #ffffff;
 }
 #header1-1c .btn {
   font-size: 12px;
