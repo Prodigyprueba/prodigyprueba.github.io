@@ -13,6 +13,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -554,6 +555,14 @@ h6,
 }
 #features1-3 .mbr-cards-col:nth-child(even) .card-subtitle {
   font-size: 17px;
+}
+#msg-box1-1n H3 {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#msg-box1-1n SPAN {
+  color: #ffffff;
 }
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
