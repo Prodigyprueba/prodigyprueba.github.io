@@ -706,7 +706,8 @@
               "text-align": "center"
             },
             "SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             }
           }
         },
