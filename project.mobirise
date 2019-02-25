@@ -803,7 +803,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#features4-b\" data-toolbar=\"-mbrBtnMove\">NACIONALES</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"assets/files/Tarifas%20Prodigy.pdf\" data-toolbar=\"-mbrBtnMove\">INTERNACIONALES</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#features4-b\" data-toolbar=\"-mbrBtnMove\">NACIONALES</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"assets/files/Tarifas.pdf\" data-toolbar=\"-mbrBtnMove\">INTERNACIONALES</a> ",
           "_tags": [
             "Tema"
           ],
