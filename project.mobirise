@@ -720,7 +720,7 @@
               "color": "#ed470b"
             },
             ".mbr-section-subtitle": {
-              "color": "#282828"
+              "color": "#000000"
             }
           },
           "_params": {
