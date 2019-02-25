@@ -681,7 +681,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ed470b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -692,7 +692,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>Conoce los destinos Internacionales que están incluídos en nuestros bonos</i></span>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/MÁS DE 50 DESTINOS INTERNACIONALES.pdf\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-down mbr-iconfont mbr-iconfont-btn\"></span>Click para descargar</a>",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"assets/files/MÁS DE 50 DESTINOS INTERNACIONALES.pdf\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-down mbr-iconfont mbr-iconfont-btn\"></span>Click para descargar</a>",
           "_tags": [
             "Tema"
           ],
@@ -706,7 +706,7 @@
               "text-align": "center"
             },
             "SPAN": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "17px"
             }
           }
@@ -720,14 +720,14 @@
               "color": "#ed470b"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#282828"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#ffffff"
           },
           "title": "Bono nacional",
           "meta": "Disfruta de llamadas nacionales ILIMITADAS a cualquier operador móvil",
