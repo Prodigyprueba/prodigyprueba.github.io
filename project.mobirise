@@ -2131,7 +2131,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Solicita tu SIMCARD&nbsp;",
+          "title": "Solicita tu SIMCARD&nbsp;<br><br>",
           "subtitle": "Solicita tu tarjeta SIM de forma gratuita desde España y activala desde la comodidad de tu casa.<br>Todas las tarjetas SIM se envían sin activar, sin saldo, sin bonos mensuales . Eres tú quien elige la tarifa deseada al activar la tarjeta.<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR SOLICITUD</a>",
           "form": {
@@ -2169,6 +2169,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           }
         },
