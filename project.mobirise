@@ -2107,7 +2107,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "<br><br>Página en construcción<br>",
-          "text": "<p>Pronto habilitaremos la pasarela de pago para que contrates tu bono<span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">favorito&nbsp;</span><span style=\"font-size: 1.07rem;\">en&nbsp;</span><span style=\"font-size: 1.07rem;\">nuestra web.&nbsp;</span></p>",
+          "text": "<p>Pronto habilitaremos la pasarela de pago para que contrates &nbsp;los bonos&nbsp;<span style=\"font-size: 1.07rem;\">en&nbsp;</span><span style=\"font-size: 1.07rem;\">nuestra web.&nbsp;</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Tema"
