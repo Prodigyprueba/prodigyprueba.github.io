@@ -36,7 +36,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "snow": "",
-    "uniqCompNum": 60,
+    "uniqCompNum": 65,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png"
   },
@@ -639,10 +639,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page5.html#msg-box8-1s\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">LO QUIERO</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -1076,7 +1076,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "AVISO LEGAL",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1227,7 +1227,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "AVISO LEGAL2",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1383,7 +1383,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "FAQ",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1722,7 +1722,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Configurar APN",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1973,6 +1973,246 @@
             }
           },
           "_anchor": "contacts1-1i"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "En construcción",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-6\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\">BONOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-a\">TARIFAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html#header1-1a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">AYUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#features3-1j\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>Configurar APN &nbsp;(Internet)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#header1-1a\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Preguntas frecuentes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-f\">CONTÁCTANOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>CLIENTES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://www.prodigymovil.es/\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span>DISTRIBUIDOR</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/prodigy-logog-1-337x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#slider-0",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-567916332-2000x672.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<br><br>Página en construcción<br>",
+          "text": "<p>Pronto habilitaremos la pasarela de pago para que contrates tu bono<span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">favorito</span></p><p><span style=\"font-size: 1.07rem;\"> en&nbsp;</span><span style=\"font-size: 1.07rem;\">nuestra web.&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Solicita tu SIMCARD&nbsp;",
+          "subtitle": "Solicita tu tarjeta SIM de forma gratuita desde España y activala desde la comodidad de tu casa.<br>Todas las tarjetas SIM se envían sin activar, sin saldo, sin bonos mensuales . Eres tú quien elige la tarifa deseada al activar la tarjeta.<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR SOLICITUD</a>",
+          "form": {
+            "action": "dianis_ma89@hotmail.com",
+            "alerts": {
+              "success": "Gracias por cotactarnos!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Dirección"
+              }
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1q",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ed470b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/prodigy-blanco-2-2-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<font color=\"#000000\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Dirección</b></span></font><br><br>Calle Infanta Mercedes, 111, Planta 1<br>Madrid, España&nbsp;",
+          "text2": "<strong>Contacto</strong><strong><br></strong><br>Email: info@prodigymobile.es<br>Número: +34 911 375 610<br>",
+          "text3": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Aviso legal</b></span></font><br><a href=\"page2.html#header1-w\" class=\"text-warning\"><br></a><a href=\"page2.html#header1-w\" class=\"text-warning\">Click aqui</a> para conocer nuestros términos y condiciones.<br><br>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-1p"
         }
       ]
     }
