@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Prodigy tres",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2082,14 +2082,17 @@
             },
             ".lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-567916332-2000x672.jpg",
             "parallax": false,
